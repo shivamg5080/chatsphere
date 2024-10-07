@@ -11,6 +11,7 @@ ChatSphere is a full stack chat application that allows users to communicate wit
 [![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?style=flat-square)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square)](https://nodejs.org/)
+[![Chakra UI](https://img.shields.io/badge/UI%20Framework-Chakra%20UI-319795?style=flat-square)](https://chakra-ui.com/)
 [![CSS3](https://img.shields.io/badge/Styling-CSS3-1572B6?style=flat-square)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Socket.IO](https://img.shields.io/badge/Web%20Sockets-Socket.IO-010101?style=flat-square)](https://socket.io/)
 
@@ -95,7 +96,7 @@ To get started with ChatSphere, follow these steps:
 
 ## Setting Up .env in Backend 🔧
 
-To set up the environment variables for the backend, create a `.env` file with the following contents:
+To set up the environment variables for the backend, create a `.env` file inside the `backend/utils` directory with the following contents:
 
 ```bash
 
@@ -201,7 +202,6 @@ if (process.env.NODE_ENV === "production") {
 | jsonwebtoken       | Library for generating and verifying JSON Web Tokens  |
 | mongoose           | MongoDB object modeling tool for Node.js              |
 | cloudinary         | Cloud-based image and video management platform       |
-
 
 ## Upcoming Features 🚀
 
