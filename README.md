@@ -231,8 +231,3 @@ contributions are welcome! To contribute to ChatSphere, follow these steps:
 - Push to the branch.
 - Open a pull request.
 
-## Contributors 🤝
-
-@ArafathQureshi
-
-> Happy chatting with ChatSphere! If you have any questions or need further assistance, feel free to reach out.
